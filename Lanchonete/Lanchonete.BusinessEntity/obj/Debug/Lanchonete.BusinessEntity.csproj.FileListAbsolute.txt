@@ -1,0 +1,11 @@
+D:\Lanchonete\Lanchonete.BusinessEntity\bin\Debug\Lanchonete.BusinessEntity.dll
+D:\Lanchonete\Lanchonete.BusinessEntity\bin\Debug\Lanchonete.BusinessEntity.pdb
+D:\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.csproj.CoreCompileInputs.cache
+D:\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.dll
+D:\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.pdb
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\bin\Debug\Lanchonete.BusinessEntity.dll
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\bin\Debug\Lanchonete.BusinessEntity.pdb
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.csprojResolveAssemblyReference.cache
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.csproj.CoreCompileInputs.cache
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.dll
+D:\Dextra\Lanchonete\Lanchonete.BusinessEntity\obj\Debug\Lanchonete.BusinessEntity.pdb
